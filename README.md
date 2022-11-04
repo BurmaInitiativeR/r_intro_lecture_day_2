@@ -1,6 +1,4 @@
-# r_intro_lecture_day_1
-R intro Day 1 lecture
+# r_intro_lecture_day_2
+R intro Day 2 lecture
 
-this lecture cover the different operator apply in r-programming 
-
-ref: https://www.geeksforgeeks.org/r-operators/
+this lecture cover the detailed concept about vector and list 
